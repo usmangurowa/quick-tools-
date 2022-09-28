@@ -33,6 +33,8 @@
     "cookies-next": "^2.1.1",
     "dayjs": "^1.11.0",
     "embla-carousel-react": "^7.0.0",
+    "lord-icon-element": "^3.4.3",
+    "lottie-web": "^5.9.6",
     "next": "12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
